@@ -1,0 +1,3 @@
+interface:
+  display_name: "Compile memory"
+  short_description: "Turn task evidence into durable private memory"

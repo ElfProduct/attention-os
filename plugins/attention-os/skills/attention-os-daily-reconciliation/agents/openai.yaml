@@ -1,0 +1,3 @@
+interface:
+  display_name: "Daily reconciliation"
+  short_description: "Review a day against intention and evidence"

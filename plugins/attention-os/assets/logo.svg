@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" role="img" aria-label="Attention OS">
+  <rect x="8" y="8" width="144" height="144" rx="40" fill="#2457D6"/>
+  <path d="M42 118 70 45h20l29 73H98l-6-16H67l-6 16Zm31-33h14L80 64Z" fill="#fff"/>
+  <text x="181" y="101" fill="#162033" font-family="ui-sans-serif,system-ui" font-size="58" font-weight="800">Attention OS</text>
+</svg>

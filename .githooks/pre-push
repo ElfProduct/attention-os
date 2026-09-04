@@ -1,0 +1,16 @@
+#!/bin/sh
+set -eu
+
+repository_root=$(git rev-parse --show-toplevel)
+zero_sha=0000000000000000000000000000000000000000
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+  if [ "$local_sha" = "$zero_sha" ]; then
+    continue
+  fi
+  if [ "$remote_sha" = "$zero_sha" ]; then
+    node "$repository_root/scripts/verify-github-identity.mjs" --tip "$local_sha"
+  else
+    node "$repository_root/scripts/verify-github-identity.mjs" --tip "$local_sha" --exclude "$remote_sha"
+  fi
+done

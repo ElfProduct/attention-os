@@ -1,0 +1,77 @@
+{
+  "description": "Capture Attention OS lifecycle context and load the user's private launch card.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/env node \"$PLUGIN_ROOT/scripts/lifecycle.mjs\"",
+            "timeout": 3,
+            "statusMessage": "Loading your Attention OS context",
+            "additionalContextLimit": 5000
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/env node \"$PLUGIN_ROOT/scripts/lifecycle.mjs\"",
+            "timeout": 3,
+            "additionalContextLimit": 4000
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Bash|mcp__.*|computer_history_.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/env node \"$PLUGIN_ROOT/scripts/lifecycle.mjs\"",
+            "timeout": 3
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/env node \"$PLUGIN_ROOT/scripts/lifecycle.mjs\"",
+            "timeout": 3
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "matcher": "manual|auto",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/env node \"$PLUGIN_ROOT/scripts/lifecycle.mjs\"",
+            "timeout": 3
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/env node \"$PLUGIN_ROOT/scripts/lifecycle.mjs\"",
+            "timeout": 3
+          }
+        ]
+      }
+    ]
+  }
+}

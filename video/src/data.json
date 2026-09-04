@@ -1,0 +1,3107 @@
+{
+  "durationMs": 156849,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": 1,
+      "eyebrow": "SYSTEM DATE",
+      "title": "A founder operating system, awake to today",
+      "type": "hero",
+      "startMs": 0,
+      "endMs": 2699
+    },
+    {
+      "id": 2,
+      "eyebrow": "THE PROBLEM",
+      "title": "Every conversation starts cold",
+      "type": "fragmented",
+      "startMs": 2033,
+      "endMs": 14869
+    },
+    {
+      "id": 3,
+      "eyebrow": "THE PROMISE",
+      "title": "Private memory. Honest accountability.",
+      "type": "orbit",
+      "startMs": 14489,
+      "endMs": 19621
+    },
+    {
+      "id": 4,
+      "eyebrow": "ONBOARDING",
+      "title": "Install once. Answer four human questions.",
+      "type": "setup",
+      "startMs": 18974,
+      "endMs": 34287
+    },
+    {
+      "id": 5,
+      "eyebrow": "THE MEMORY LOOP",
+      "title": "Evidence becomes durable context",
+      "type": "loop",
+      "startMs": 33658,
+      "endMs": 51136
+    },
+    {
+      "id": 6,
+      "eyebrow": "FOCUSED PRODUCTS",
+      "title": "One memory. Several jobs to be done.",
+      "type": "products",
+      "startMs": 50482,
+      "endMs": 71160
+    },
+    {
+      "id": 7,
+      "eyebrow": "A BRIEFING, NOT A DASHBOARD",
+      "title": "Your day becomes a story you can act on",
+      "type": "briefing",
+      "startMs": 70708,
+      "endMs": 87451
+    },
+    {
+      "id": 8,
+      "eyebrow": "AUTHORITY BOUNDARIES",
+      "title": "Useful context is not permission",
+      "type": "permissions",
+      "startMs": 86785,
+      "endMs": 102918
+    },
+    {
+      "id": 9,
+      "eyebrow": "WHY CODEX FIRST",
+      "title": "Start inside the integrated shell",
+      "type": "stack",
+      "startMs": 102296,
+      "endMs": 116736
+    },
+    {
+      "id": 10,
+      "eyebrow": "THE CROSS-HARNESS THESIS",
+      "title": "A social graph for trusted agents",
+      "type": "network",
+      "startMs": 116324,
+      "endMs": 139233
+    },
+    {
+      "id": 11,
+      "eyebrow": "A STAGED PATH",
+      "title": "Earn trust before autonomy compounds",
+      "type": "stages",
+      "startMs": 138744,
+      "endMs": 151112
+    },
+    {
+      "id": 12,
+      "eyebrow": "OPEN-SOURCE ALPHA",
+      "title": "Install it. Then make it yours.",
+      "type": "cta",
+      "startMs": 150732,
+      "endMs": 156849
+    }
+  ],
+  "captions": [
+    {
+      "startMs": 0,
+      "endMs": 2499,
+      "words": [
+        {
+          "text": "Hello,",
+          "startMs": 0,
+          "endMs": 194
+        },
+        {
+          "text": "today",
+          "startMs": 235,
+          "endMs": 436
+        },
+        {
+          "text": "is",
+          "startMs": 485,
+          "endMs": 582
+        },
+        {
+          "text": "Friday,",
+          "startMs": 624,
+          "endMs": 921
+        },
+        {
+          "text": "4",
+          "startMs": 970,
+          "endMs": 1115
+        },
+        {
+          "text": "September",
+          "startMs": 1149,
+          "endMs": 1455
+        },
+        {
+          "text": "2026.",
+          "startMs": 1600,
+          "endMs": 2279
+        }
+      ]
+    },
+    {
+      "startMs": 2393,
+      "endMs": 5021,
+      "words": [
+        {
+          "text": "Early-stage",
+          "startMs": 2393,
+          "endMs": 3201
+        },
+        {
+          "text": "founders",
+          "startMs": 3238,
+          "endMs": 3540
+        },
+        {
+          "text": "do",
+          "startMs": 3572,
+          "endMs": 3637
+        },
+        {
+          "text": "not",
+          "startMs": 3698,
+          "endMs": 3879
+        },
+        {
+          "text": "have",
+          "startMs": 3899,
+          "endMs": 3976
+        },
+        {
+          "text": "a",
+          "startMs": 4001,
+          "endMs": 4025
+        },
+        {
+          "text": "shortage",
+          "startMs": 4057,
+          "endMs": 4316
+        },
+        {
+          "text": "of",
+          "startMs": 4332,
+          "endMs": 4364
+        },
+        {
+          "text": "tasks.",
+          "startMs": 4429,
+          "endMs": 4801
+        }
+      ]
+    },
+    {
+      "startMs": 4859,
+      "endMs": 6281,
+      "words": [
+        {
+          "text": "They",
+          "startMs": 4859,
+          "endMs": 5092
+        },
+        {
+          "text": "have",
+          "startMs": 5111,
+          "endMs": 5188
+        },
+        {
+          "text": "a",
+          "startMs": 5189,
+          "endMs": 5189
+        },
+        {
+          "text": "continuity",
+          "startMs": 5233,
+          "endMs": 5673
+        },
+        {
+          "text": "problem.",
+          "startMs": 5710,
+          "endMs": 6061
+        }
+      ]
+    },
+    {
+      "startMs": 6170,
+      "endMs": 8075,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 6170,
+          "endMs": 6498
+        },
+        {
+          "text": "goal",
+          "startMs": 6536,
+          "endMs": 6692
+        },
+        {
+          "text": "lives",
+          "startMs": 6732,
+          "endMs": 6934
+        },
+        {
+          "text": "in",
+          "startMs": 6982,
+          "endMs": 7079
+        },
+        {
+          "text": "one",
+          "startMs": 7116,
+          "endMs": 7225
+        },
+        {
+          "text": "conversation.",
+          "startMs": 7270,
+          "endMs": 7855
+        }
+      ]
+    },
+    {
+      "startMs": 7940,
+      "endMs": 9675,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 7940,
+          "endMs": 8195
+        },
+        {
+          "text": "evidence",
+          "startMs": 8227,
+          "endMs": 8486
+        },
+        {
+          "text": "lives",
+          "startMs": 8518,
+          "endMs": 8679
+        },
+        {
+          "text": "across",
+          "startMs": 8707,
+          "endMs": 8873
+        },
+        {
+          "text": "code,",
+          "startMs": 8941,
+          "endMs": 9455
+        }
+      ]
+    },
+    {
+      "startMs": 9494,
+      "endMs": 12584,
+      "words": [
+        {
+          "text": "calendars,",
+          "startMs": 9494,
+          "endMs": 9892
+        },
+        {
+          "text": "messages,",
+          "startMs": 9956,
+          "endMs": 10667
+        },
+        {
+          "text": "documents,",
+          "startMs": 10711,
+          "endMs": 11298
+        },
+        {
+          "text": "and",
+          "startMs": 11322,
+          "endMs": 11395
+        },
+        {
+          "text": "half-finished",
+          "startMs": 11433,
+          "endMs": 11879
+        },
+        {
+          "text": "decisions.",
+          "startMs": 11923,
+          "endMs": 12364
+        }
+      ]
+    },
+    {
+      "startMs": 12461,
+      "endMs": 14669,
+      "words": [
+        {
+          "text": "Then",
+          "startMs": 12461,
+          "endMs": 12849
+        },
+        {
+          "text": "the",
+          "startMs": 12861,
+          "endMs": 12898
+        },
+        {
+          "text": "next",
+          "startMs": 12946,
+          "endMs": 13140
+        },
+        {
+          "text": "AI",
+          "startMs": 13221,
+          "endMs": 13382
+        },
+        {
+          "text": "conversation",
+          "startMs": 13416,
+          "endMs": 13819
+        },
+        {
+          "text": "starts",
+          "startMs": 13861,
+          "endMs": 14110
+        },
+        {
+          "text": "cold.",
+          "startMs": 14168,
+          "endMs": 14449
+        }
+      ]
+    },
+    {
+      "startMs": 14849,
+      "endMs": 17384,
+      "words": [
+        {
+          "text": "Attention",
+          "startMs": 14849,
+          "endMs": 15176
+        },
+        {
+          "text": "OS",
+          "startMs": 15273,
+          "endMs": 15467
+        },
+        {
+          "text": "turns",
+          "startMs": 15499,
+          "endMs": 15661
+        },
+        {
+          "text": "Codex",
+          "startMs": 15722,
+          "endMs": 16049
+        },
+        {
+          "text": "into",
+          "startMs": 16088,
+          "endMs": 16243
+        },
+        {
+          "text": "a",
+          "startMs": 16267,
+          "endMs": 16292
+        },
+        {
+          "text": "private",
+          "startMs": 16328,
+          "endMs": 16583
+        },
+        {
+          "text": "memory",
+          "startMs": 16624,
+          "endMs": 16873
+        },
+        {
+          "text": "and",
+          "startMs": 16946,
+          "endMs": 17164
+        }
+      ]
+    },
+    {
+      "startMs": 17193,
+      "endMs": 19421,
+      "words": [
+        {
+          "text": "accountability",
+          "startMs": 17193,
+          "endMs": 17601
+        },
+        {
+          "text": "system",
+          "startMs": 17649,
+          "endMs": 17940
+        },
+        {
+          "text": "for",
+          "startMs": 18001,
+          "endMs": 18183
+        },
+        {
+          "text": "that",
+          "startMs": 18212,
+          "endMs": 18328
+        },
+        {
+          "text": "stage",
+          "startMs": 18369,
+          "endMs": 18570
+        },
+        {
+          "text": "of",
+          "startMs": 18587,
+          "endMs": 18619
+        },
+        {
+          "text": "company",
+          "startMs": 18649,
+          "endMs": 18861
+        },
+        {
+          "text": "building.",
+          "startMs": 18893,
+          "endMs": 19201
+        }
+      ]
+    },
+    {
+      "startMs": 19334,
+      "endMs": 21215,
+      "words": [
+        {
+          "text": "Install",
+          "startMs": 19334,
+          "endMs": 19928
+        },
+        {
+          "text": "the",
+          "startMs": 19940,
+          "endMs": 19976
+        },
+        {
+          "text": "plugin,",
+          "startMs": 20018,
+          "endMs": 20510
+        },
+        {
+          "text": "then",
+          "startMs": 20539,
+          "endMs": 20655
+        },
+        {
+          "text": "say:",
+          "startMs": 20716,
+          "endMs": 20995
+        }
+      ]
+    },
+    {
+      "startMs": 21104,
+      "endMs": 22621,
+      "words": [
+        {
+          "text": "Set",
+          "startMs": 21104,
+          "endMs": 21431
+        },
+        {
+          "text": "up",
+          "startMs": 21463,
+          "endMs": 21528
+        },
+        {
+          "text": "Attention",
+          "startMs": 21557,
+          "endMs": 21819
+        },
+        {
+          "text": "OS",
+          "startMs": 21916,
+          "endMs": 22110
+        },
+        {
+          "text": "for",
+          "startMs": 22134,
+          "endMs": 22207
+        },
+        {
+          "text": "me.",
+          "startMs": 22255,
+          "endMs": 22401
+        }
+      ]
+    },
+    {
+      "startMs": 22534,
+      "endMs": 24463,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 22534,
+          "endMs": 22934
+        },
+        {
+          "text": "agent",
+          "startMs": 22975,
+          "endMs": 23176
+        },
+        {
+          "text": "asks",
+          "startMs": 23225,
+          "endMs": 23419
+        },
+        {
+          "text": "a",
+          "startMs": 23443,
+          "endMs": 23467
+        },
+        {
+          "text": "handful",
+          "startMs": 23492,
+          "endMs": 23661
+        },
+        {
+          "text": "of",
+          "startMs": 23693,
+          "endMs": 23758
+        },
+        {
+          "text": "questions:",
+          "startMs": 23797,
+          "endMs": 24243
+        }
+      ]
+    },
+    {
+      "startMs": 24316,
+      "endMs": 26306,
+      "words": [
+        {
+          "text": "who",
+          "startMs": 24316,
+          "endMs": 24534
+        },
+        {
+          "text": "you",
+          "startMs": 24570,
+          "endMs": 24680
+        },
+        {
+          "text": "are,",
+          "startMs": 24728,
+          "endMs": 24922
+        },
+        {
+          "text": "what",
+          "startMs": 25000,
+          "endMs": 25310
+        },
+        {
+          "text": "you",
+          "startMs": 25322,
+          "endMs": 25358
+        },
+        {
+          "text": "are",
+          "startMs": 25370,
+          "endMs": 25407
+        },
+        {
+          "text": "trying",
+          "startMs": 25435,
+          "endMs": 25601
+        },
+        {
+          "text": "to",
+          "startMs": 25617,
+          "endMs": 25649
+        },
+        {
+          "text": "achieve,",
+          "startMs": 25698,
+          "endMs": 26086
+        }
+      ]
+    },
+    {
+      "startMs": 26153,
+      "endMs": 27469,
+      "words": [
+        {
+          "text": "what",
+          "startMs": 26153,
+          "endMs": 26425
+        },
+        {
+          "text": "role",
+          "startMs": 26464,
+          "endMs": 26619
+        },
+        {
+          "text": "you",
+          "startMs": 26631,
+          "endMs": 26667
+        },
+        {
+          "text": "are",
+          "startMs": 26680,
+          "endMs": 26716
+        },
+        {
+          "text": "playing",
+          "startMs": 26746,
+          "endMs": 26958
+        },
+        {
+          "text": "now,",
+          "startMs": 27007,
+          "endMs": 27249
+        }
+      ]
+    },
+    {
+      "startMs": 27334,
+      "endMs": 29069,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 27334,
+          "endMs": 27589
+        },
+        {
+          "text": "how",
+          "startMs": 27613,
+          "endMs": 27686
+        },
+        {
+          "text": "directly",
+          "startMs": 27723,
+          "endMs": 28025
+        },
+        {
+          "text": "you",
+          "startMs": 28049,
+          "endMs": 28122
+        },
+        {
+          "text": "want",
+          "startMs": 28141,
+          "endMs": 28219
+        },
+        {
+          "text": "to",
+          "startMs": 28235,
+          "endMs": 28267
+        },
+        {
+          "text": "be",
+          "startMs": 28300,
+          "endMs": 28364
+        },
+        {
+          "text": "coached.",
+          "startMs": 28413,
+          "endMs": 28849
+        }
+      ]
+    },
+    {
+      "startMs": 29011,
+      "endMs": 31494,
+      "words": [
+        {
+          "text": "It",
+          "startMs": 29011,
+          "endMs": 29334
+        },
+        {
+          "text": "creates",
+          "startMs": 29358,
+          "endMs": 29528
+        },
+        {
+          "text": "a",
+          "startMs": 29577,
+          "endMs": 29625
+        },
+        {
+          "text": "private,",
+          "startMs": 29661,
+          "endMs": 30013
+        },
+        {
+          "text": "human-readable",
+          "startMs": 30045,
+          "endMs": 30449
+        },
+        {
+          "text": "memory",
+          "startMs": 30484,
+          "endMs": 30692
+        },
+        {
+          "text": "on",
+          "startMs": 30724,
+          "endMs": 30789
+        },
+        {
+          "text": "your",
+          "startMs": 30798,
+          "endMs": 30837
+        },
+        {
+          "text": "machine,",
+          "startMs": 30880,
+          "endMs": 31274
+        }
+      ]
+    },
+    {
+      "startMs": 31338,
+      "endMs": 34087,
+      "words": [
+        {
+          "text": "initializes",
+          "startMs": 31338,
+          "endMs": 32049
+        },
+        {
+          "text": "local",
+          "startMs": 32081,
+          "endMs": 32243
+        },
+        {
+          "text": "Git",
+          "startMs": 32292,
+          "endMs": 32437
+        },
+        {
+          "text": "history,",
+          "startMs": 32474,
+          "endMs": 33019
+        },
+        {
+          "text": "and",
+          "startMs": 33043,
+          "endMs": 33116
+        },
+        {
+          "text": "adds",
+          "startMs": 33164,
+          "endMs": 33358
+        },
+        {
+          "text": "no",
+          "startMs": 33390,
+          "endMs": 33455
+        },
+        {
+          "text": "remote.",
+          "startMs": 33510,
+          "endMs": 33867
+        }
+      ]
+    },
+    {
+      "startMs": 34018,
+      "endMs": 37166,
+      "words": [
+        {
+          "text": "From",
+          "startMs": 34018,
+          "endMs": 34522
+        },
+        {
+          "text": "then",
+          "startMs": 34551,
+          "endMs": 34667
+        },
+        {
+          "text": "on,",
+          "startMs": 34732,
+          "endMs": 35152
+        },
+        {
+          "text": "lifecycle",
+          "startMs": 35191,
+          "endMs": 35540
+        },
+        {
+          "text": "hooks",
+          "startMs": 35589,
+          "endMs": 35831
+        },
+        {
+          "text": "preserve",
+          "startMs": 35869,
+          "endMs": 36170
+        },
+        {
+          "text": "pointers",
+          "startMs": 36214,
+          "endMs": 36558
+        },
+        {
+          "text": "to",
+          "startMs": 36591,
+          "endMs": 36655
+        },
+        {
+          "text": "completed",
+          "startMs": 36684,
+          "endMs": 36946
+        }
+      ]
+    },
+    {
+      "startMs": 37004,
+      "endMs": 38960,
+      "words": [
+        {
+          "text": "work.",
+          "startMs": 37004,
+          "endMs": 37674
+        },
+        {
+          "text": "They",
+          "startMs": 37683,
+          "endMs": 37722
+        },
+        {
+          "text": "do",
+          "startMs": 37754,
+          "endMs": 37819
+        },
+        {
+          "text": "not",
+          "startMs": 37843,
+          "endMs": 37916
+        },
+        {
+          "text": "dump",
+          "startMs": 37955,
+          "endMs": 38110
+        },
+        {
+          "text": "your",
+          "startMs": 38129,
+          "endMs": 38207
+        },
+        {
+          "text": "transcripts",
+          "startMs": 38235,
+          "endMs": 38546
+        },
+        {
+          "text": "into",
+          "startMs": 38575,
+          "endMs": 38692
+        },
+        {
+          "text": "a",
+          "startMs": 38716,
+          "endMs": 38740
+        }
+      ]
+    },
+    {
+      "startMs": 38789,
+      "endMs": 41384,
+      "words": [
+        {
+          "text": "database.",
+          "startMs": 38789,
+          "endMs": 39225
+        },
+        {
+          "text": "A",
+          "startMs": 39419,
+          "endMs": 39613
+        },
+        {
+          "text": "memory",
+          "startMs": 39641,
+          "endMs": 39807
+        },
+        {
+          "text": "compiler",
+          "startMs": 39844,
+          "endMs": 40146
+        },
+        {
+          "text": "reviews",
+          "startMs": 40183,
+          "endMs": 40437
+        },
+        {
+          "text": "the",
+          "startMs": 40461,
+          "endMs": 40534
+        },
+        {
+          "text": "bounded",
+          "startMs": 40564,
+          "endMs": 40777
+        },
+        {
+          "text": "evidence,",
+          "startMs": 40814,
+          "endMs": 41164
+        }
+      ]
+    },
+    {
+      "startMs": 41227,
+      "endMs": 43954,
+      "words": [
+        {
+          "text": "separates",
+          "startMs": 41227,
+          "endMs": 41795
+        },
+        {
+          "text": "facts",
+          "startMs": 41835,
+          "endMs": 42037
+        },
+        {
+          "text": "from",
+          "startMs": 42057,
+          "endMs": 42134
+        },
+        {
+          "text": "declarations,",
+          "startMs": 42183,
+          "endMs": 42910
+        },
+        {
+          "text": "observations,",
+          "startMs": 42958,
+          "endMs": 43734
+        }
+      ]
+    },
+    {
+      "startMs": 43766,
+      "endMs": 46863,
+      "words": [
+        {
+          "text": "inferences,",
+          "startMs": 43766,
+          "endMs": 44268
+        },
+        {
+          "text": "and",
+          "startMs": 44340,
+          "endMs": 44558
+        },
+        {
+          "text": "unknowns,",
+          "startMs": 44601,
+          "endMs": 45043
+        },
+        {
+          "text": "and",
+          "startMs": 45128,
+          "endMs": 45383
+        },
+        {
+          "text": "commits",
+          "startMs": 45413,
+          "endMs": 45625
+        },
+        {
+          "text": "only",
+          "startMs": 45664,
+          "endMs": 45819
+        },
+        {
+          "text": "the",
+          "startMs": 45831,
+          "endMs": 45868
+        },
+        {
+          "text": "durable",
+          "startMs": 45904,
+          "endMs": 46158
+        },
+        {
+          "text": "change.",
+          "startMs": 46214,
+          "endMs": 46643
+        }
+      ]
+    },
+    {
+      "startMs": 46692,
+      "endMs": 49239,
+      "words": [
+        {
+          "text": "Corrections",
+          "startMs": 46692,
+          "endMs": 47225
+        },
+        {
+          "text": "become",
+          "startMs": 47253,
+          "endMs": 47419
+        },
+        {
+          "text": "new,",
+          "startMs": 47492,
+          "endMs": 47758
+        },
+        {
+          "text": "auditable",
+          "startMs": 47843,
+          "endMs": 48340
+        },
+        {
+          "text": "transitions.",
+          "startMs": 48389,
+          "endMs": 49019
+        }
+      ]
+    },
+    {
+      "startMs": 49097,
+      "endMs": 50936,
+      "words": [
+        {
+          "text": "They",
+          "startMs": 49097,
+          "endMs": 49407
+        },
+        {
+          "text": "do",
+          "startMs": 49423,
+          "endMs": 49455
+        },
+        {
+          "text": "not",
+          "startMs": 49492,
+          "endMs": 49601
+        },
+        {
+          "text": "disappear",
+          "startMs": 49630,
+          "endMs": 49892
+        },
+        {
+          "text": "into",
+          "startMs": 49931,
+          "endMs": 50086
+        },
+        {
+          "text": "rewritten",
+          "startMs": 50115,
+          "endMs": 50377
+        },
+        {
+          "text": "history.",
+          "startMs": 50413,
+          "endMs": 50716
+        }
+      ]
+    },
+    {
+      "startMs": 50842,
+      "endMs": 52827,
+      "words": [
+        {
+          "text": "That",
+          "startMs": 50842,
+          "endMs": 51152
+        },
+        {
+          "text": "memory",
+          "startMs": 51187,
+          "endMs": 51395
+        },
+        {
+          "text": "powers",
+          "startMs": 51429,
+          "endMs": 51637
+        },
+        {
+          "text": "a",
+          "startMs": 51661,
+          "endMs": 51686
+        },
+        {
+          "text": "set",
+          "startMs": 51722,
+          "endMs": 51831
+        },
+        {
+          "text": "of",
+          "startMs": 51848,
+          "endMs": 51880
+        },
+        {
+          "text": "focused",
+          "startMs": 51916,
+          "endMs": 52171
+        },
+        {
+          "text": "products.",
+          "startMs": 52214,
+          "endMs": 52607
+        }
+      ]
+    },
+    {
+      "startMs": 52680,
+      "endMs": 55736,
+      "words": [
+        {
+          "text": "Founder",
+          "startMs": 52680,
+          "endMs": 53189
+        },
+        {
+          "text": "Coach",
+          "startMs": 53229,
+          "endMs": 53431
+        },
+        {
+          "text": "compares",
+          "startMs": 53463,
+          "endMs": 53722
+        },
+        {
+          "text": "real",
+          "startMs": 53751,
+          "endMs": 53868
+        },
+        {
+          "text": "priorities",
+          "startMs": 53907,
+          "endMs": 54304
+        },
+        {
+          "text": "against",
+          "startMs": 54334,
+          "endMs": 54546
+        },
+        {
+          "text": "the",
+          "startMs": 54558,
+          "endMs": 54595
+        },
+        {
+          "text": "same",
+          "startMs": 54634,
+          "endMs": 54789
+        },
+        {
+          "text": "criteria",
+          "startMs": 54869,
+          "endMs": 55516
+        }
+      ]
+    },
+    {
+      "startMs": 55565,
+      "endMs": 58063,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 55565,
+          "endMs": 55710
+        },
+        {
+          "text": "recommends",
+          "startMs": 55737,
+          "endMs": 56001
+        },
+        {
+          "text": "the",
+          "startMs": 56025,
+          "endMs": 56098
+        },
+        {
+          "text": "smallest",
+          "startMs": 56130,
+          "endMs": 56389
+        },
+        {
+          "text": "move",
+          "startMs": 56437,
+          "endMs": 56631
+        },
+        {
+          "text": "that",
+          "startMs": 56651,
+          "endMs": 56728
+        },
+        {
+          "text": "creates",
+          "startMs": 56765,
+          "endMs": 57019
+        },
+        {
+          "text": "external",
+          "startMs": 57057,
+          "endMs": 57358
+        },
+        {
+          "text": "evidence.",
+          "startMs": 57407,
+          "endMs": 57843
+        }
+      ]
+    },
+    {
+      "startMs": 57948,
+      "endMs": 60827,
+      "words": [
+        {
+          "text": "Daily",
+          "startMs": 57948,
+          "endMs": 58474
+        },
+        {
+          "text": "Reconciliation",
+          "startMs": 58506,
+          "endMs": 59104
+        },
+        {
+          "text": "checks",
+          "startMs": 59166,
+          "endMs": 59540
+        },
+        {
+          "text": "what",
+          "startMs": 59560,
+          "endMs": 59637
+        },
+        {
+          "text": "you",
+          "startMs": 59662,
+          "endMs": 59734
+        },
+        {
+          "text": "intended",
+          "startMs": 59772,
+          "endMs": 60074
+        },
+        {
+          "text": "against",
+          "startMs": 60110,
+          "endMs": 60365
+        },
+        {
+          "text": "the",
+          "startMs": 60377,
+          "endMs": 60413
+        },
+        {
+          "text": "full",
+          "startMs": 60452,
+          "endMs": 60607
+        }
+      ]
+    },
+    {
+      "startMs": 60680,
+      "endMs": 63251,
+      "words": [
+        {
+          "text": "day,",
+          "startMs": 60680,
+          "endMs": 60946
+        },
+        {
+          "text": "live",
+          "startMs": 61043,
+          "endMs": 61431
+        },
+        {
+          "text": "commitments,",
+          "startMs": 61472,
+          "endMs": 62159
+        },
+        {
+          "text": "observed",
+          "startMs": 62185,
+          "endMs": 62401
+        },
+        {
+          "text": "activity,",
+          "startMs": 62449,
+          "endMs": 63031
+        }
+      ]
+    },
+    {
+      "startMs": 63055,
+      "endMs": 64269,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 63055,
+          "endMs": 63128
+        },
+        {
+          "text": "verified",
+          "startMs": 63171,
+          "endMs": 63516
+        },
+        {
+          "text": "outcomes.",
+          "startMs": 63565,
+          "endMs": 64049
+        }
+      ]
+    },
+    {
+      "startMs": 64140,
+      "endMs": 67276,
+      "words": [
+        {
+          "text": "Evening",
+          "startMs": 64140,
+          "endMs": 64777
+        },
+        {
+          "text": "Review",
+          "startMs": 64819,
+          "endMs": 65068
+        },
+        {
+          "text": "captures",
+          "startMs": 65100,
+          "endMs": 65359
+        },
+        {
+          "text": "the",
+          "startMs": 65383,
+          "endMs": 65456
+        },
+        {
+          "text": "human",
+          "startMs": 65496,
+          "endMs": 65698
+        },
+        {
+          "text": "context",
+          "startMs": 65752,
+          "endMs": 66134
+        },
+        {
+          "text": "telemetry",
+          "startMs": 66178,
+          "endMs": 66571
+        },
+        {
+          "text": "misses.",
+          "startMs": 66626,
+          "endMs": 67056
+        }
+      ]
+    },
+    {
+      "startMs": 67146,
+      "endMs": 69554,
+      "words": [
+        {
+          "text": "Memory",
+          "startMs": 67146,
+          "endMs": 67686
+        },
+        {
+          "text": "Review",
+          "startMs": 67728,
+          "endMs": 67977
+        },
+        {
+          "text": "shows",
+          "startMs": 68017,
+          "endMs": 68219
+        },
+        {
+          "text": "exactly",
+          "startMs": 68268,
+          "endMs": 68607
+        },
+        {
+          "text": "what",
+          "startMs": 68626,
+          "endMs": 68704
+        },
+        {
+          "text": "the",
+          "startMs": 68716,
+          "endMs": 68752
+        },
+        {
+          "text": "system",
+          "startMs": 68794,
+          "endMs": 69043
+        },
+        {
+          "text": "thinks",
+          "startMs": 69071,
+          "endMs": 69237
+        },
+        {
+          "text": "it",
+          "startMs": 69269,
+          "endMs": 69334
+        }
+      ]
+    },
+    {
+      "startMs": 69383,
+      "endMs": 70960,
+      "words": [
+        {
+          "text": "knows,",
+          "startMs": 69383,
+          "endMs": 69868
+        },
+        {
+          "text": "and",
+          "startMs": 69892,
+          "endMs": 69965
+        },
+        {
+          "text": "lets",
+          "startMs": 69994,
+          "endMs": 70110
+        },
+        {
+          "text": "you",
+          "startMs": 70134,
+          "endMs": 70207
+        },
+        {
+          "text": "correct",
+          "startMs": 70243,
+          "endMs": 70498
+        },
+        {
+          "text": "it.",
+          "startMs": 70563,
+          "endMs": 70740
+        }
+      ]
+    },
+    {
+      "startMs": 71068,
+      "endMs": 73239,
+      "words": [
+        {
+          "text": "Content",
+          "startMs": 71068,
+          "endMs": 71322
+        },
+        {
+          "text": "Scout",
+          "startMs": 71379,
+          "endMs": 71662
+        },
+        {
+          "text": "finds",
+          "startMs": 71702,
+          "endMs": 71904
+        },
+        {
+          "text": "only",
+          "startMs": 71953,
+          "endMs": 72146
+        },
+        {
+          "text": "information",
+          "startMs": 72179,
+          "endMs": 72534
+        },
+        {
+          "text": "that",
+          "startMs": 72554,
+          "endMs": 72631
+        },
+        {
+          "text": "can",
+          "startMs": 72656,
+          "endMs": 72728
+        },
+        {
+          "text": "change",
+          "startMs": 72763,
+          "endMs": 72971
+        },
+        {
+          "text": "an",
+          "startMs": 72987,
+          "endMs": 73019
+        }
+      ]
+    },
+    {
+      "startMs": 73061,
+      "endMs": 75663,
+      "words": [
+        {
+          "text": "active",
+          "startMs": 73061,
+          "endMs": 73310
+        },
+        {
+          "text": "decision.",
+          "startMs": 73353,
+          "endMs": 73746
+        },
+        {
+          "text": "Morning",
+          "startMs": 73825,
+          "endMs": 74377
+        },
+        {
+          "text": "Briefing",
+          "startMs": 74409,
+          "endMs": 74716
+        },
+        {
+          "text": "turns",
+          "startMs": 74748,
+          "endMs": 74910
+        },
+        {
+          "text": "goals,",
+          "startMs": 74966,
+          "endMs": 75443
+        }
+      ]
+    },
+    {
+      "startMs": 75468,
+      "endMs": 77894,
+      "words": [
+        {
+          "text": "current",
+          "startMs": 75468,
+          "endMs": 75637
+        },
+        {
+          "text": "projects,",
+          "startMs": 75686,
+          "endMs": 76268
+        },
+        {
+          "text": "fresh",
+          "startMs": 76300,
+          "endMs": 76462
+        },
+        {
+          "text": "calendar",
+          "startMs": 76494,
+          "endMs": 76753
+        },
+        {
+          "text": "and",
+          "startMs": 76777,
+          "endMs": 76850
+        },
+        {
+          "text": "task",
+          "startMs": 76908,
+          "endMs": 77140
+        },
+        {
+          "text": "state,",
+          "startMs": 77189,
+          "endMs": 77674
+        }
+      ]
+    },
+    {
+      "startMs": 77730,
+      "endMs": 80536,
+      "words": [
+        {
+          "text": "risks,",
+          "startMs": 77730,
+          "endMs": 78207
+        },
+        {
+          "text": "and",
+          "startMs": 78219,
+          "endMs": 78256
+        },
+        {
+          "text": "capacity",
+          "startMs": 78310,
+          "endMs": 78740
+        },
+        {
+          "text": "into",
+          "startMs": 78818,
+          "endMs": 79128
+        },
+        {
+          "text": "one",
+          "startMs": 79189,
+          "endMs": 79371
+        },
+        {
+          "text": "grounded",
+          "startMs": 79408,
+          "endMs": 79710
+        },
+        {
+          "text": "plan.",
+          "startMs": 79778,
+          "endMs": 80316
+        }
+      ]
+    },
+    {
+      "startMs": 80405,
+      "endMs": 82354,
+      "words": [
+        {
+          "text": "It",
+          "startMs": 80405,
+          "endMs": 80583
+        },
+        {
+          "text": "can",
+          "startMs": 80607,
+          "endMs": 80680
+        },
+        {
+          "text": "arrive",
+          "startMs": 80708,
+          "endMs": 80874
+        },
+        {
+          "text": "as",
+          "startMs": 80906,
+          "endMs": 80971
+        },
+        {
+          "text": "text",
+          "startMs": 81048,
+          "endMs": 81359
+        },
+        {
+          "text": "or",
+          "startMs": 81472,
+          "endMs": 81698
+        },
+        {
+          "text": "as",
+          "startMs": 81730,
+          "endMs": 81795
+        },
+        {
+          "text": "a",
+          "startMs": 81819,
+          "endMs": 81843
+        },
+        {
+          "text": "narrated",
+          "startMs": 81873,
+          "endMs": 82134
+        }
+      ]
+    },
+    {
+      "startMs": 82183,
+      "endMs": 85409,
+      "words": [
+        {
+          "text": "Remotion",
+          "startMs": 82183,
+          "endMs": 82522
+        },
+        {
+          "text": "film",
+          "startMs": 82571,
+          "endMs": 82765
+        },
+        {
+          "text": "with",
+          "startMs": 82823,
+          "endMs": 83056
+        },
+        {
+          "text": "complete",
+          "startMs": 83082,
+          "endMs": 83298
+        },
+        {
+          "text": "captions",
+          "startMs": 83347,
+          "endMs": 83734
+        },
+        {
+          "text": "and",
+          "startMs": 83759,
+          "endMs": 83831
+        },
+        {
+          "text": "diagrams—generated",
+          "startMs": 83885,
+          "endMs": 84995
+        },
+        {
+          "text": "for",
+          "startMs": 85019,
+          "endMs": 85092
+        },
+        {
+          "text": "your",
+          "startMs": 85111,
+          "endMs": 85189
+        }
+      ]
+    },
+    {
+      "startMs": 85250,
+      "endMs": 87251,
+      "words": [
+        {
+          "text": "day,",
+          "startMs": 85250,
+          "endMs": 85722
+        },
+        {
+          "text": "not",
+          "startMs": 85747,
+          "endMs": 85819
+        },
+        {
+          "text": "squeezed",
+          "startMs": 85851,
+          "endMs": 86110
+        },
+        {
+          "text": "into",
+          "startMs": 86139,
+          "endMs": 86256
+        },
+        {
+          "text": "a",
+          "startMs": 86280,
+          "endMs": 86304
+        },
+        {
+          "text": "generic",
+          "startMs": 86340,
+          "endMs": 86595
+        },
+        {
+          "text": "dashboard.",
+          "startMs": 86634,
+          "endMs": 87031
+        }
+      ]
+    },
+    {
+      "startMs": 87145,
+      "endMs": 88560,
+      "words": [
+        {
+          "text": "Permissions",
+          "startMs": 87145,
+          "endMs": 87856
+        },
+        {
+          "text": "stay",
+          "startMs": 87885,
+          "endMs": 88001
+        },
+        {
+          "text": "visible.",
+          "startMs": 88037,
+          "endMs": 88340
+        }
+      ]
+    },
+    {
+      "startMs": 88416,
+      "endMs": 91664,
+      "words": [
+        {
+          "text": "Calendar,",
+          "startMs": 88416,
+          "endMs": 89116
+        },
+        {
+          "text": "task,",
+          "startMs": 89194,
+          "endMs": 89553
+        },
+        {
+          "text": "activity,",
+          "startMs": 89607,
+          "endMs": 90280
+        },
+        {
+          "text": "document,",
+          "startMs": 90317,
+          "endMs": 90813
+        },
+        {
+          "text": "communication,",
+          "startMs": 90855,
+          "endMs": 91444
+        }
+      ]
+    },
+    {
+      "startMs": 91504,
+      "endMs": 93118,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 91504,
+          "endMs": 91686
+        },
+        {
+          "text": "voice",
+          "startMs": 91718,
+          "endMs": 91880
+        },
+        {
+          "text": "integrations",
+          "startMs": 91908,
+          "endMs": 92316
+        },
+        {
+          "text": "are",
+          "startMs": 92365,
+          "endMs": 92510
+        },
+        {
+          "text": "opt",
+          "startMs": 92547,
+          "endMs": 92656
+        },
+        {
+          "text": "in.",
+          "startMs": 92721,
+          "endMs": 92898
+        }
+      ]
+    },
+    {
+      "startMs": 93068,
+      "endMs": 95639,
+      "words": [
+        {
+          "text": "API",
+          "startMs": 93068,
+          "endMs": 93577
+        },
+        {
+          "text": "keys",
+          "startMs": 93616,
+          "endMs": 93771
+        },
+        {
+          "text": "stay",
+          "startMs": 93800,
+          "endMs": 93916
+        },
+        {
+          "text": "in",
+          "startMs": 93948,
+          "endMs": 94013
+        },
+        {
+          "text": "provider",
+          "startMs": 94045,
+          "endMs": 94304
+        },
+        {
+          "text": "authorization",
+          "startMs": 94342,
+          "endMs": 94837
+        },
+        {
+          "text": "or",
+          "startMs": 94951,
+          "endMs": 95177
+        },
+        {
+          "text": "a",
+          "startMs": 95201,
+          "endMs": 95225
+        },
+        {
+          "text": "local",
+          "startMs": 95257,
+          "endMs": 95419
+        }
+      ]
+    },
+    {
+      "startMs": 95450,
+      "endMs": 97821,
+      "words": [
+        {
+          "text": "credential",
+          "startMs": 95450,
+          "endMs": 95759
+        },
+        {
+          "text": "store,",
+          "startMs": 95799,
+          "endMs": 96050
+        },
+        {
+          "text": "never",
+          "startMs": 96114,
+          "endMs": 96437
+        },
+        {
+          "text": "in",
+          "startMs": 96470,
+          "endMs": 96534
+        },
+        {
+          "text": "chat",
+          "startMs": 96583,
+          "endMs": 96777
+        },
+        {
+          "text": "or",
+          "startMs": 96825,
+          "endMs": 96922
+        },
+        {
+          "text": "canonical",
+          "startMs": 96956,
+          "endMs": 97262
+        },
+        {
+          "text": "memory.",
+          "startMs": 97304,
+          "endMs": 97601
+        }
+      ]
+    },
+    {
+      "startMs": 97684,
+      "endMs": 99179,
+      "words": [
+        {
+          "text": "Memory",
+          "startMs": 97684,
+          "endMs": 98183
+        },
+        {
+          "text": "can",
+          "startMs": 98207,
+          "endMs": 98280
+        },
+        {
+          "text": "inform",
+          "startMs": 98314,
+          "endMs": 98522
+        },
+        {
+          "text": "action.",
+          "startMs": 98571,
+          "endMs": 98959
+        }
+      ]
+    },
+    {
+      "startMs": 99072,
+      "endMs": 100488,
+      "words": [
+        {
+          "text": "It",
+          "startMs": 99072,
+          "endMs": 99298
+        },
+        {
+          "text": "cannot",
+          "startMs": 99326,
+          "endMs": 99492
+        },
+        {
+          "text": "authorize",
+          "startMs": 99526,
+          "endMs": 99831
+        },
+        {
+          "text": "a",
+          "startMs": 99856,
+          "endMs": 99880
+        },
+        {
+          "text": "message,",
+          "startMs": 99922,
+          "endMs": 100268
+        }
+      ]
+    },
+    {
+      "startMs": 100327,
+      "endMs": 102718,
+      "words": [
+        {
+          "text": "purchase,",
+          "startMs": 100327,
+          "endMs": 100995
+        },
+        {
+          "text": "publication,",
+          "startMs": 101031,
+          "endMs": 101625
+        },
+        {
+          "text": "or",
+          "startMs": 101658,
+          "endMs": 101722
+        },
+        {
+          "text": "external",
+          "startMs": 101754,
+          "endMs": 102013
+        },
+        {
+          "text": "commitment.",
+          "startMs": 102053,
+          "endMs": 102498
+        }
+      ]
+    },
+    {
+      "startMs": 102656,
+      "endMs": 105724,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 102656,
+          "endMs": 102983
+        },
+        {
+          "text": "first",
+          "startMs": 103007,
+          "endMs": 103128
+        },
+        {
+          "text": "release",
+          "startMs": 103159,
+          "endMs": 103371
+        },
+        {
+          "text": "is",
+          "startMs": 103403,
+          "endMs": 103468
+        },
+        {
+          "text": "deliberately",
+          "startMs": 103498,
+          "endMs": 103856
+        },
+        {
+          "text": "Codex-native",
+          "startMs": 103904,
+          "endMs": 104535
+        },
+        {
+          "text": "because",
+          "startMs": 104583,
+          "endMs": 104922
+        },
+        {
+          "text": "Codex",
+          "startMs": 104971,
+          "endMs": 105262
+        },
+        {
+          "text": "already",
+          "startMs": 105292,
+          "endMs": 105504
+        }
+      ]
+    },
+    {
+      "startMs": 105542,
+      "endMs": 107955,
+      "words": [
+        {
+          "text": "supplies",
+          "startMs": 105542,
+          "endMs": 105844
+        },
+        {
+          "text": "the",
+          "startMs": 105856,
+          "endMs": 105892
+        },
+        {
+          "text": "agent,",
+          "startMs": 105957,
+          "endMs": 106474
+        },
+        {
+          "text": "tools,",
+          "startMs": 106530,
+          "endMs": 107056
+        },
+        {
+          "text": "task",
+          "startMs": 107095,
+          "endMs": 107250
+        },
+        {
+          "text": "lifecycle,",
+          "startMs": 107293,
+          "endMs": 107735
+        }
+      ]
+    },
+    {
+      "startMs": 107792,
+      "endMs": 109797,
+      "words": [
+        {
+          "text": "scheduling,",
+          "startMs": 107792,
+          "endMs": 108559
+        },
+        {
+          "text": "and",
+          "startMs": 108583,
+          "endMs": 108656
+        },
+        {
+          "text": "integrated",
+          "startMs": 108687,
+          "endMs": 108995
+        },
+        {
+          "text": "interface.",
+          "startMs": 109044,
+          "endMs": 109577
+        }
+      ]
+    },
+    {
+      "startMs": 109686,
+      "endMs": 111058,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 109686,
+          "endMs": 110013
+        },
+        {
+          "text": "easy",
+          "startMs": 110052,
+          "endMs": 110207
+        },
+        {
+          "text": "work",
+          "startMs": 110236,
+          "endMs": 110353
+        },
+        {
+          "text": "is",
+          "startMs": 110369,
+          "endMs": 110401
+        },
+        {
+          "text": "packaging.",
+          "startMs": 110440,
+          "endMs": 110838
+        }
+      ]
+    },
+    {
+      "startMs": 110922,
+      "endMs": 112658,
+      "words": [
+        {
+          "text": "The",
+          "startMs": 110922,
+          "endMs": 111177
+        },
+        {
+          "text": "hard",
+          "startMs": 111216,
+          "endMs": 111371
+        },
+        {
+          "text": "work",
+          "startMs": 111400,
+          "endMs": 111516
+        },
+        {
+          "text": "is",
+          "startMs": 111565,
+          "endMs": 111662
+        },
+        {
+          "text": "trustworthy",
+          "startMs": 111694,
+          "endMs": 112050
+        },
+        {
+          "text": "evidence,",
+          "startMs": 112087,
+          "endMs": 112438
+        }
+      ]
+    },
+    {
+      "startMs": 112507,
+      "endMs": 115955,
+      "words": [
+        {
+          "text": "memory",
+          "startMs": 112507,
+          "endMs": 112922
+        },
+        {
+          "text": "quality,",
+          "startMs": 112971,
+          "endMs": 113553
+        },
+        {
+          "text": "recovery,",
+          "startMs": 113596,
+          "endMs": 114183
+        },
+        {
+          "text": "permissions,",
+          "startMs": 114219,
+          "endMs": 114668
+        },
+        {
+          "text": "and",
+          "startMs": 114728,
+          "endMs": 114910
+        },
+        {
+          "text": "proving",
+          "startMs": 114941,
+          "endMs": 115153
+        },
+        {
+          "text": "the",
+          "startMs": 115165,
+          "endMs": 115201
+        },
+        {
+          "text": "experience",
+          "startMs": 115241,
+          "endMs": 115638
+        },
+        {
+          "text": "on",
+          "startMs": 115670,
+          "endMs": 115735
+        }
+      ]
+    },
+    {
+      "startMs": 115759,
+      "endMs": 116536,
+      "words": [
+        {
+          "text": "a",
+          "startMs": 115759,
+          "endMs": 115783
+        },
+        {
+          "text": "clean",
+          "startMs": 115807,
+          "endMs": 115929
+        },
+        {
+          "text": "machine.",
+          "startMs": 115971,
+          "endMs": 116316
+        }
+      ]
+    },
+    {
+      "startMs": 116684,
+      "endMs": 118427,
+      "words": [
+        {
+          "text": "There",
+          "startMs": 116684,
+          "endMs": 116947
+        },
+        {
+          "text": "is",
+          "startMs": 116979,
+          "endMs": 117044
+        },
+        {
+          "text": "also",
+          "startMs": 117073,
+          "endMs": 117189
+        },
+        {
+          "text": "a",
+          "startMs": 117213,
+          "endMs": 117238
+        },
+        {
+          "text": "more",
+          "startMs": 117257,
+          "endMs": 117335
+        },
+        {
+          "text": "ambitious",
+          "startMs": 117369,
+          "endMs": 117674
+        },
+        {
+          "text": "possibility.",
+          "startMs": 117710,
+          "endMs": 118207
+        }
+      ]
+    },
+    {
+      "startMs": 118353,
+      "endMs": 120367,
+      "words": [
+        {
+          "text": "If",
+          "startMs": 118353,
+          "endMs": 118644
+        },
+        {
+          "text": "people",
+          "startMs": 118672,
+          "endMs": 118838
+        },
+        {
+          "text": "come",
+          "startMs": 118857,
+          "endMs": 118935
+        },
+        {
+          "text": "to",
+          "startMs": 118951,
+          "endMs": 118983
+        },
+        {
+          "text": "trust",
+          "startMs": 119015,
+          "endMs": 119177
+        },
+        {
+          "text": "persistent",
+          "startMs": 119208,
+          "endMs": 119516
+        },
+        {
+          "text": "agents,",
+          "startMs": 119572,
+          "endMs": 120147
+        }
+      ]
+    },
+    {
+      "startMs": 120176,
+      "endMs": 122306,
+      "words": [
+        {
+          "text": "Attention",
+          "startMs": 120176,
+          "endMs": 120438
+        },
+        {
+          "text": "OS",
+          "startMs": 120518,
+          "endMs": 120680
+        },
+        {
+          "text": "could",
+          "startMs": 120696,
+          "endMs": 120777
+        },
+        {
+          "text": "become",
+          "startMs": 120805,
+          "endMs": 120971
+        },
+        {
+          "text": "a",
+          "startMs": 121019,
+          "endMs": 121068
+        },
+        {
+          "text": "neutral",
+          "startMs": 121098,
+          "endMs": 121310
+        },
+        {
+          "text": "social",
+          "startMs": 121352,
+          "endMs": 121601
+        },
+        {
+          "text": "layer",
+          "startMs": 121633,
+          "endMs": 121795
+        },
+        {
+          "text": "across",
+          "startMs": 121837,
+          "endMs": 122086
+        }
+      ]
+    },
+    {
+      "startMs": 122167,
+      "endMs": 125215,
+      "words": [
+        {
+          "text": "AI",
+          "startMs": 122167,
+          "endMs": 122329
+        },
+        {
+          "text": "harnesses:",
+          "startMs": 122365,
+          "endMs": 123201
+        },
+        {
+          "text": "agents",
+          "startMs": 123236,
+          "endMs": 123444
+        },
+        {
+          "text": "publishing",
+          "startMs": 123475,
+          "endMs": 123783
+        },
+        {
+          "text": "non-sensitive",
+          "startMs": 123819,
+          "endMs": 124219
+        },
+        {
+          "text": "capability",
+          "startMs": 124255,
+          "endMs": 124607
+        },
+        {
+          "text": "cards,",
+          "startMs": 124664,
+          "endMs": 124995
+        }
+      ]
+    },
+    {
+      "startMs": 125056,
+      "endMs": 127203,
+      "words": [
+        {
+          "text": "finding",
+          "startMs": 125056,
+          "endMs": 125480
+        },
+        {
+          "text": "one",
+          "startMs": 125492,
+          "endMs": 125529
+        },
+        {
+          "text": "another,",
+          "startMs": 125565,
+          "endMs": 125868
+        },
+        {
+          "text": "and",
+          "startMs": 125929,
+          "endMs": 126110
+        },
+        {
+          "text": "accepting",
+          "startMs": 126144,
+          "endMs": 126450
+        },
+        {
+          "text": "signed,",
+          "startMs": 126498,
+          "endMs": 126983
+        }
+      ]
+    },
+    {
+      "startMs": 127022,
+      "endMs": 130403,
+      "words": [
+        {
+          "text": "time-bounded",
+          "startMs": 127022,
+          "endMs": 127419
+        },
+        {
+          "text": "delegations.",
+          "startMs": 127452,
+          "endMs": 128098
+        },
+        {
+          "text": "The",
+          "startMs": 128219,
+          "endMs": 128583
+        },
+        {
+          "text": "recent",
+          "startMs": 128611,
+          "endMs": 128777
+        },
+        {
+          "text": "OpenAI",
+          "startMs": 128835,
+          "endMs": 129310
+        },
+        {
+          "text": "and",
+          "startMs": 129335,
+          "endMs": 129407
+        },
+        {
+          "text": "Hugging",
+          "startMs": 129456,
+          "endMs": 129650
+        },
+        {
+          "text": "Face",
+          "startMs": 129689,
+          "endMs": 129844
+        },
+        {
+          "text": "incident",
+          "startMs": 129881,
+          "endMs": 130183
+        }
+      ]
+    },
+    {
+      "startMs": 130238,
+      "endMs": 132003,
+      "words": [
+        {
+          "text": "showed",
+          "startMs": 130238,
+          "endMs": 130571
+        },
+        {
+          "text": "that",
+          "startMs": 130590,
+          "endMs": 130668
+        },
+        {
+          "text": "agents",
+          "startMs": 130710,
+          "endMs": 130959
+        },
+        {
+          "text": "can",
+          "startMs": 130983,
+          "endMs": 131056
+        },
+        {
+          "text": "communicate,",
+          "startMs": 131096,
+          "endMs": 131783
+        }
+      ]
+    },
+    {
+      "startMs": 131807,
+      "endMs": 134088,
+      "words": [
+        {
+          "text": "share",
+          "startMs": 131807,
+          "endMs": 131929
+        },
+        {
+          "text": "discoveries,",
+          "startMs": 131969,
+          "endMs": 132559
+        },
+        {
+          "text": "delegate,",
+          "startMs": 132602,
+          "endMs": 133141
+        },
+        {
+          "text": "and",
+          "startMs": 133153,
+          "endMs": 133189
+        },
+        {
+          "text": "adopt",
+          "startMs": 133230,
+          "endMs": 133432
+        },
+        {
+          "text": "goals.",
+          "startMs": 133488,
+          "endMs": 133868
+        }
+      ]
+    },
+    {
+      "startMs": 134013,
+      "endMs": 135688,
+      "words": [
+        {
+          "text": "It",
+          "startMs": 134013,
+          "endMs": 134304
+        },
+        {
+          "text": "also",
+          "startMs": 134343,
+          "endMs": 134498
+        },
+        {
+          "text": "showed",
+          "startMs": 134526,
+          "endMs": 134692
+        },
+        {
+          "text": "why",
+          "startMs": 134716,
+          "endMs": 134789
+        },
+        {
+          "text": "identity,",
+          "startMs": 134838,
+          "endMs": 135468
+        }
+      ]
+    },
+    {
+      "startMs": 135500,
+      "endMs": 138597,
+      "words": [
+        {
+          "text": "least",
+          "startMs": 135500,
+          "endMs": 135662
+        },
+        {
+          "text": "privilege,",
+          "startMs": 135701,
+          "endMs": 136292
+        },
+        {
+          "text": "audit,",
+          "startMs": 136349,
+          "endMs": 136826
+        },
+        {
+          "text": "revocation,",
+          "startMs": 136850,
+          "endMs": 137456
+        },
+        {
+          "text": "and",
+          "startMs": 137468,
+          "endMs": 137504
+        },
+        {
+          "text": "containment",
+          "startMs": 137541,
+          "endMs": 137941
+        },
+        {
+          "text": "have",
+          "startMs": 137999,
+          "endMs": 138232
+        },
+        {
+          "text": "to",
+          "startMs": 138248,
+          "endMs": 138280
+        },
+        {
+          "text": "be",
+          "startMs": 138312,
+          "endMs": 138377
+        }
+      ]
+    },
+    {
+      "startMs": 138389,
+      "endMs": 140343,
+      "words": [
+        {
+          "text": "the",
+          "startMs": 138389,
+          "endMs": 138426
+        },
+        {
+          "text": "product.",
+          "startMs": 138468,
+          "endMs": 138813
+        },
+        {
+          "text": "So",
+          "startMs": 139104,
+          "endMs": 139250
+        },
+        {
+          "text": "the",
+          "startMs": 139262,
+          "endMs": 139298
+        },
+        {
+          "text": "path",
+          "startMs": 139337,
+          "endMs": 139492
+        },
+        {
+          "text": "is",
+          "startMs": 139509,
+          "endMs": 139541
+        },
+        {
+          "text": "staged:",
+          "startMs": 139596,
+          "endMs": 140123
+        }
+      ]
+    },
+    {
+      "startMs": 140179,
+      "endMs": 142379,
+      "words": [
+        {
+          "text": "first,",
+          "startMs": 140179,
+          "endMs": 140704
+        },
+        {
+          "text": "earn",
+          "startMs": 140733,
+          "endMs": 140850
+        },
+        {
+          "text": "trust",
+          "startMs": 140882,
+          "endMs": 141044
+        },
+        {
+          "text": "with",
+          "startMs": 141063,
+          "endMs": 141141
+        },
+        {
+          "text": "one",
+          "startMs": 141177,
+          "endMs": 141286
+        },
+        {
+          "text": "person",
+          "startMs": 141335,
+          "endMs": 141626
+        },
+        {
+          "text": "and",
+          "startMs": 141662,
+          "endMs": 141771
+        },
+        {
+          "text": "one",
+          "startMs": 141807,
+          "endMs": 141917
+        },
+        {
+          "text": "private",
+          "startMs": 141947,
+          "endMs": 142159
+        }
+      ]
+    },
+    {
+      "startMs": 142193,
+      "endMs": 145773,
+      "words": [
+        {
+          "text": "memory.",
+          "startMs": 142193,
+          "endMs": 142450
+        },
+        {
+          "text": "Then",
+          "startMs": 142557,
+          "endMs": 142983
+        },
+        {
+          "text": "enable",
+          "startMs": 143052,
+          "endMs": 143468
+        },
+        {
+          "text": "bilateral",
+          "startMs": 143512,
+          "endMs": 143904
+        },
+        {
+          "text": "agent-to-agent",
+          "startMs": 143945,
+          "endMs": 144486
+        },
+        {
+          "text": "work",
+          "startMs": 144535,
+          "endMs": 144729
+        },
+        {
+          "text": "with",
+          "startMs": 144787,
+          "endMs": 145020
+        },
+        {
+          "text": "explicit",
+          "startMs": 145057,
+          "endMs": 145359
+        },
+        {
+          "text": "owner",
+          "startMs": 145391,
+          "endMs": 145553
+        }
+      ]
+    },
+    {
+      "startMs": 145597,
+      "endMs": 148537,
+      "words": [
+        {
+          "text": "authority.",
+          "startMs": 145597,
+          "endMs": 146329
+        },
+        {
+          "text": "Only",
+          "startMs": 146397,
+          "endMs": 146668
+        },
+        {
+          "text": "later,",
+          "startMs": 146717,
+          "endMs": 147104
+        },
+        {
+          "text": "after",
+          "startMs": 147129,
+          "endMs": 147250
+        },
+        {
+          "text": "adversarial",
+          "startMs": 147284,
+          "endMs": 147686
+        },
+        {
+          "text": "testing,",
+          "startMs": 147729,
+          "endMs": 148317
+        }
+      ]
+    },
+    {
+      "startMs": 148343,
+      "endMs": 150912,
+      "words": [
+        {
+          "text": "consider",
+          "startMs": 148343,
+          "endMs": 148559
+        },
+        {
+          "text": "governed",
+          "startMs": 148586,
+          "endMs": 148801
+        },
+        {
+          "text": "swarms",
+          "startMs": 148834,
+          "endMs": 149141
+        },
+        {
+          "text": "and",
+          "startMs": 149201,
+          "endMs": 149383
+        },
+        {
+          "text": "a",
+          "startMs": 149407,
+          "endMs": 149432
+        },
+        {
+          "text": "verified-outcome",
+          "startMs": 149475,
+          "endMs": 150111
+        },
+        {
+          "text": "social",
+          "startMs": 150145,
+          "endMs": 150353
+        },
+        {
+          "text": "graph.",
+          "startMs": 150401,
+          "endMs": 150692
+        }
+      ]
+    },
+    {
+      "startMs": 151092,
+      "endMs": 153046,
+      "words": [
+        {
+          "text": "Attention",
+          "startMs": 151092,
+          "endMs": 151420
+        },
+        {
+          "text": "OS",
+          "startMs": 151500,
+          "endMs": 151662
+        },
+        {
+          "text": "is",
+          "startMs": 151694,
+          "endMs": 151759
+        },
+        {
+          "text": "open",
+          "startMs": 151798,
+          "endMs": 151953
+        },
+        {
+          "text": "source",
+          "startMs": 152001,
+          "endMs": 152292
+        },
+        {
+          "text": "and",
+          "startMs": 152329,
+          "endMs": 152438
+        },
+        {
+          "text": "in",
+          "startMs": 152470,
+          "endMs": 152535
+        },
+        {
+          "text": "alpha.",
+          "startMs": 152575,
+          "endMs": 152826
+        }
+      ]
+    },
+    {
+      "startMs": 152898,
+      "endMs": 155324,
+      "words": [
+        {
+          "text": "Install",
+          "startMs": 152898,
+          "endMs": 153407
+        },
+        {
+          "text": "it",
+          "startMs": 153424,
+          "endMs": 153456
+        },
+        {
+          "text": "from",
+          "startMs": 153475,
+          "endMs": 153553
+        },
+        {
+          "text": "GitHub,",
+          "startMs": 153595,
+          "endMs": 154135
+        },
+        {
+          "text": "open",
+          "startMs": 154164,
+          "endMs": 154280
+        },
+        {
+          "text": "a",
+          "startMs": 154304,
+          "endMs": 154329
+        },
+        {
+          "text": "new",
+          "startMs": 154353,
+          "endMs": 154426
+        },
+        {
+          "text": "Codex",
+          "startMs": 154474,
+          "endMs": 154765
+        },
+        {
+          "text": "task,",
+          "startMs": 154823,
+          "endMs": 155104
+        }
+      ]
+    },
+    {
+      "startMs": 155129,
+      "endMs": 157070,
+      "words": [
+        {
+          "text": "and",
+          "startMs": 155129,
+          "endMs": 155201
+        },
+        {
+          "text": "say:",
+          "startMs": 155250,
+          "endMs": 155492
+        },
+        {
+          "text": "Set",
+          "startMs": 155601,
+          "endMs": 155929
+        },
+        {
+          "text": "up",
+          "startMs": 155945,
+          "endMs": 155977
+        },
+        {
+          "text": "Attention",
+          "startMs": 156006,
+          "endMs": 156268
+        },
+        {
+          "text": "OS",
+          "startMs": 156349,
+          "endMs": 156511
+        },
+        {
+          "text": "for",
+          "startMs": 156535,
+          "endMs": 156608
+        },
+        {
+          "text": "me.",
+          "startMs": 156656,
+          "endMs": 156850
+        }
+      ]
+    }
+  ]
+}

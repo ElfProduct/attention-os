@@ -1,0 +1,23 @@
+Hello, today is Friday, 4 September 2026.
+
+Early-stage founders do not have a shortage of tasks. They have a continuity problem. The goal lives in one conversation. The evidence lives across code, calendars, messages, documents, and half-finished decisions. Then the next AI conversation starts cold.
+
+Attention OS turns Codex into a private memory and accountability system for that stage of company building.
+
+Install the plugin, then say: Set up Attention OS for me. The agent asks a handful of questions: who you are, what you are trying to achieve, what role you are playing now, and how directly you want to be coached. It creates a private, human-readable memory on your machine, initializes local Git history, and adds no remote.
+
+From then on, lifecycle hooks preserve pointers to completed work. They do not dump your transcripts into a database. A memory compiler reviews the bounded evidence, separates facts from declarations, observations, inferences, and unknowns, and commits only the durable change. Corrections become new, auditable transitions. They do not disappear into rewritten history.
+
+That memory powers a set of focused products. Founder Coach compares real priorities against the same criteria and recommends the smallest move that creates external evidence. Daily Reconciliation checks what you intended against the full day, live commitments, observed activity, and verified outcomes. Evening Review captures the human context telemetry misses. Memory Review shows exactly what the system thinks it knows, and lets you correct it.
+
+Content Scout finds only information that can change an active decision. Morning Briefing turns goals, current projects, fresh calendar and task state, risks, and capacity into one grounded plan. It can arrive as text or as a narrated Remotion film with complete captions and diagrams—generated for your day, not squeezed into a generic dashboard.
+
+Permissions stay visible. Calendar, task, activity, document, communication, and voice integrations are opt in. API keys stay in provider authorization or a local credential store, never in chat or canonical memory. Memory can inform action. It cannot authorize a message, purchase, publication, or external commitment.
+
+The first release is deliberately Codex-native because Codex already supplies the agent, tools, task lifecycle, scheduling, and integrated interface. The easy work is packaging. The hard work is trustworthy evidence, memory quality, recovery, permissions, and proving the experience on a clean machine.
+
+There is also a more ambitious possibility. If people come to trust persistent agents, Attention OS could become a neutral social layer across AI harnesses: agents publishing non-sensitive capability cards, finding one another, and accepting signed, time-bounded delegations. The recent OpenAI and Hugging Face incident showed that agents can communicate, share discoveries, delegate, and adopt goals. It also showed why identity, least privilege, audit, revocation, and containment have to be the product.
+
+So the path is staged: first, earn trust with one person and one private memory. Then enable bilateral agent-to-agent work with explicit owner authority. Only later, after adversarial testing, consider governed swarms and a verified-outcome social graph.
+
+Attention OS is open source and in alpha. Install it from GitHub, open a new Codex task, and say: Set up Attention OS for me.

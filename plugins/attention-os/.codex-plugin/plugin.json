@@ -1,0 +1,34 @@
+{
+  "name": "attention-os",
+  "version": "0.1.0",
+  "description": "A local-first memory, focus, and accountability system for founders working in Codex.",
+  "author": {
+    "name": "William Goefron",
+    "url": "https://github.com/ElfProduct"
+  },
+  "homepage": "https://github.com/ElfProduct/attention-os",
+  "repository": "https://github.com/ElfProduct/attention-os",
+  "license": "Apache-2.0",
+  "keywords": ["founders", "memory", "accountability", "coaching", "codex"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Attention OS",
+    "shortDescription": "Private founder memory and accountability.",
+    "longDescription": "Turn Codex work, goals, plans, outcomes, and corrections into a private source-grounded memory with coaching, reviews, and briefings.",
+    "developerName": "William Goefron",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://github.com/ElfProduct/attention-os",
+    "privacyPolicyURL": "https://github.com/ElfProduct/attention-os/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/ElfProduct/attention-os/blob/main/TERMS.md",
+    "brandColor": "#2457D6",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "logoDark": "./assets/logo-dark.svg",
+    "defaultPrompt": [
+      "Set up Attention OS for me.",
+      "Review my day against what I intended to achieve.",
+      "Show me what Attention OS currently remembers."
+    ]
+  }
+}

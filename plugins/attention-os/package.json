@@ -1,0 +1,15 @@
+{
+  "name": "@attention-os/codex-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check scripts/*.mjs && node --check lib/*.mjs",
+    "status": "node scripts/attention-os.mjs status"
+  }
+}

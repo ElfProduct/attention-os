@@ -1,0 +1,24 @@
+{
+  "name": "attention-os-readme-film",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "SEE LICENSE IN ../THIRD_PARTY.md",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts AttentionOSExplainer out/attention-os-explainer.mp4 --codec=h264 --concurrency=1",
+    "poster": "remotion still src/index.ts AttentionOSPoster out/attention-os-explainer-poster.png --frame=0",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.518",
+    "@remotion/media": "4.0.518",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.518"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
